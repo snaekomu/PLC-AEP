@@ -1,0 +1,169 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = early_chinese
+religion = confucianism
+primary_culture = chihan
+capital = 695
+
+300.1.1 = { primary_culture = chahar religion = tengri_pagan_reformed secondary_religion = mahayana }
+
+304.1.1 = {
+	monarch = {
+		name = "Yuan"
+		dynasty = "Liu"
+		birth_date = 274.1.1
+		adm = 5
+		dip = 0
+		mil = 3
+	}
+}
+
+304.1.1 = {
+	heir = {
+		name = "He"
+		monarch_name = "He"
+		dynasty = "Liu"
+		birth_date = 280.1.1
+		death_date = 310.9.28
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+}
+
+310.9.21 = {
+	monarch = {
+		name = "He"
+		dynasty = "Liu"
+		birth_date = 280.1.1
+		adm = 5
+		dip = 5
+		mil = 1
+	}
+}
+
+310.9.21 = {
+	heir = {
+		name = "Cong"
+		monarch_name = "Cong"
+		dynasty = "Liu"
+		birth_date = 280.1.1
+		death_date = 318.8.31
+		claim = 95
+		adm = 0
+		dip = 5
+		mil = 5
+	}
+}
+
+310.9.28 = {
+	monarch = {
+		name = "Cong"
+		dynasty = "Liu"
+		birth_date = 280.1.1
+		adm = 0
+		dip = 5
+		mil = 5
+	}
+}
+
+310.9.28 = {
+	heir = {
+		name = "Can"
+		monarch_name = "Can"
+		dynasty = "Liu"
+		birth_date = 300.1.1
+		death_date = 319.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+318.8.31 = {
+	monarch = {
+		name = "Can"
+		dynasty = "Liu"
+		birth_date = 300.1.1
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+}
+
+319.1.1 = {
+	monarch = {
+		name = "Yao"
+		dynasty = "Liu"
+		birth_date = 300.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+320.1.1 = { religion = confucianism primary_culture = chihan }
+
+320.1.1 = {
+	monarch = {
+		name = "Shi Le"
+		dynasty = "Zhao"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+333.1.1 = {
+	monarch = {
+		name = "Shi Hong"
+		dynasty = "Zhao"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+334.1.1 = {
+	monarch = {
+		name = "Shi Hu"
+		dynasty = "Zhao"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+349.1.1 = {
+	monarch = {
+		name = "Shi Jian"
+		dynasty = "Zhao"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+350.1.1 = {
+	monarch = {
+		name = "Shi Zi"
+		dynasty = "Zhao"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+750.1.1 = { technology_group = chinese }
+
+910.1.1 = {
+	monarch = {
+		name = "Wang Rong"
+		dynasty = "Zhao"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}

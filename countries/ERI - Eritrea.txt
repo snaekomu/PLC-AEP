@@ -1,0 +1,17 @@
+government = constitutional_republic
+mercantilism = 0.1
+primary_culture = tigray
+religion = sunni
+technology_group = muslim
+capital = 2672
+
+1990.1.1 = { religion = secularism }
+
+1991.5.24 = { 
+	monarch = {
+		name = "Isaias Afewerki"
+		adm = 4
+		dip = 5
+		mil = 5
+		}
+	}

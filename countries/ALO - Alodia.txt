@@ -1,0 +1,79 @@
+government = tribal_kingdom
+mercantilism = 0.1
+primary_culture = nubian
+religion = shamanism
+technology_group = sub_saharan
+capital = 2667 #Soba
+
+550.1.1 = { religion = coptic }
+
+900.1.1 = {
+	monarch = {
+		name = "Eusebius Gurdjuh"
+		dynasty = "Gurdjuhid"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+958.1.1 = {
+	monarch = {
+		name = "Stefan"
+		dynasty = "Gurdjuhid"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1050.1.1 = {
+	monarch = {
+		name = "(Interregnum)"
+		regent = yes
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1250.1.1 = {
+	monarch = {
+		name = "Ador"
+		dynasty = "Alodian"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1350.1.1 = {
+	monarch = {
+		name = "(Interregnum)"
+		regent = yes
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1440.1.1 = {
+	monarch = {
+		name = "Joel"
+		dynasty = "Dotawo"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1480.1.1 = {
+	monarch = {
+		name = "Abdallah Jamma"
+		dynasty = "Abdallabi"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	religion = sunni
+}

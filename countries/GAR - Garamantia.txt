@@ -1,0 +1,8 @@
+government = tribal_federation
+government_rank = 1
+primary_culture = tuareg
+religion = shamanism
+technology_group = middle_eastern
+capital = 2055
+
+850.1.1 = { religion = sunni primary_culture = tunisian technology_group = muslim }

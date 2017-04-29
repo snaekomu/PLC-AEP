@@ -1,0 +1,27 @@
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+primary_culture = nubian
+religion = egyptian
+technology_group = sub_saharan
+capital = 1232	# Suakin
+
+250.1.1 = {
+	monarch = {
+		name = "Yesebojeamani"
+		dynasty = "Blemmye"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+350.1.1 = {
+	monarch = {
+		name = "(Interregnum)"
+		regent = yes
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

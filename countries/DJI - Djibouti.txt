@@ -1,0 +1,25 @@
+government = constitutional_republic
+mercantilism = 0.1
+primary_culture = afar
+religion = sunni
+technology_group = muslim
+capital = 2003
+
+1977.6.27 = {
+	monarch = {
+		name = "Hassan Gouled Aptidon"
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+
+1999.5.8 = {
+	monarch = {
+		name = "Ismaïl Omar Guelleh"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}

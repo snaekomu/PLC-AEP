@@ -1,0 +1,69 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = early_chinese
+religion = confucianism
+primary_culture = sichuanese
+capital = 679	# Chengdu
+
+304.1.1 = {
+	monarch = {
+		name = "Xiong"
+		dynasty = "Li"
+		birth_date = 274.1.1
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+}
+
+304.1.1 = {
+	heir = {
+		name = "Ban"
+		monarch_name = "Ban"
+		dynasty = "Li"
+		birth_date = 288.1.1
+		death_date = 334.12.5
+		claim = 95
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+}
+
+334.5.1 = {
+	monarch = {
+		name = "Ban"
+		dynasty = "Li"
+		birth_date = 288.1.1
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+}
+
+334.5.1 = {
+	heir = {
+		name = "Qi"
+		monarch_name = "Qi"
+		dynasty = "Li"
+		birth_date = 314.1.1
+		death_date = 338.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+334.12.5 = {
+	monarch = {
+		name = "Qi"
+		dynasty = "Li"
+		birth_date = 314.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+750.1.1 = { technology_group = chinese }
