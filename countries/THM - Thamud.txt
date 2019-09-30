@@ -1,7 +1,0 @@
-government = tribal_despotism
-government_rank = 1
-mercantilism = 0.1
-primary_culture = bedouin_arabic
-religion = south_arabian
-technology_group = middle_eastern
-capital = 2531

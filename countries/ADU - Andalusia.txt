@@ -1,6 +1,0 @@
-government = iqta
-primary_culture = andalucian
-religion = sunni
-add_accepted_culture = berber
-technology_group = muslim
-capital = 225	# Cordoba
